@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class ArrayQuestions {
+public class Problem1{
 	public static void main(String[] args) {
 		
 		// Problem-1 -> Create an Array of 5 float and Calculate their sum
