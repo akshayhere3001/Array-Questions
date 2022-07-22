@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Problem-2{
+public class ArrayQuestions{
   public static void main(String[] args){
       
       	// Problem-2 -> Write a program to find if the given number is present in an Array or not
